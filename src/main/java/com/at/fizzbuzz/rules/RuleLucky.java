@@ -1,4 +1,4 @@
-package com.at.fizzbuzz.com.at.fizzbuzz.rules;
+package com.at.fizzbuzz.rules;
 
 /**
  * Created by angelo on 14/11/2016.

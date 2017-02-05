@@ -1,6 +1,6 @@
 package com.at.fizzbuzz;
 
-import com.at.fizzbuzz.com.at.fizzbuzz.rules.Rule;
+import com.at.fizzbuzz.rules.Rule;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,9 +1,9 @@
 package com.at.fizzbuzz;
 
-import com.at.fizzbuzz.com.at.fizzbuzz.rules.RuleBuzz;
-import com.at.fizzbuzz.com.at.fizzbuzz.rules.RuleFizz;
-import com.at.fizzbuzz.com.at.fizzbuzz.rules.RuleLucky;
-import com.at.fizzbuzz.com.at.fizzbuzz.rules.RuleNumbers;
+import com.at.fizzbuzz.rules.RuleBuzz;
+import com.at.fizzbuzz.rules.RuleFizz;
+import com.at.fizzbuzz.rules.RuleLucky;
+import com.at.fizzbuzz.rules.RuleNumbers;
 
 import java.util.ArrayList;
 import java.util.List;
